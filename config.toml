@@ -1,4 +1,4 @@
 baseURL = "https://suspicious-banach-bea786.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Notes from a Web Developer"
 theme = "m10c"
